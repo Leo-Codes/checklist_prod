@@ -1,7 +1,7 @@
 var apartamentos = [];
 
 async function get_apartamentos() {
-    let response = await fetch("database/manager.php", {
+    let response = await fetch("https://tecseg.online/api/manager.php", {
         method: "POST",
         headers: {
             Accept: "application/json",
@@ -178,7 +178,7 @@ function config_buttons() {
 
 async function post_json() {
     let new_json = JSON.stringify(apartamentos);
-    let response = await fetch("database/manager.php", {
+    let response = await fetch("https://tecseg.online/api/manager.php", {
         method: "POST",
         headers: {
             Accept: "application/json",
