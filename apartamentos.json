@@ -1,0 +1,4082 @@
+[
+  {
+    "apartamento": "11A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "ok",
+        "parede": "ok"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "12A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "13A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "14A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "21A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "22A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "23A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "24A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "31A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "32A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "33A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "34A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "41A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "42A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "43A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "44A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "51A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "52A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "53A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "54A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "61A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "62A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "63A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "64A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "71A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "72A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "73A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "74A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "81A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "82A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "83A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "84A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "91A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "92A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "93A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "94A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "101A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "102A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "103A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "104A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "111A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "112A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "113A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "114A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "121A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "122A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "123A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "124A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "131A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "132A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "133A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "134A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "141A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "142A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "143A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "144A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "151A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "152A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "153A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "154A",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "11B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "12B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "13B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "14B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "21B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "22B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "23B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "24B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "31B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "32B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "33B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "34B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "41B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "42B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "43B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "44B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "51B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "52B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "53B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "54B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "61B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "62B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "63B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "64B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "71B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "72B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "73B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "74B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "81B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "82B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "83B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "84B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "91B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "92B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "93B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "94B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "101B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "102B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "103B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "104B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "111B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "112B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "113B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "114B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "121B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "122B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "123B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "124B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "131B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "132B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "133B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "134B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "141B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "142B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "143B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "144B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "151B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "152B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "153B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  },
+  {
+    "apartamento": "154B",
+    "detalhes": [
+      {
+        "ambiente": "cozinha",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "A.S",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "sacada",
+        "piso": "pendente"
+      },
+      {
+        "ambiente": "lavabo",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Social",
+        "piso": "pendente",
+        "parede": "pendente"
+      },
+      {
+        "ambiente": "WC Suíte",
+        "piso": "pendente",
+        "parede": "pendente"
+      }
+    ]
+  }
+]
